@@ -1,11 +1,11 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Network+%26+IT+Engineer;Linux+%7C+Virtualization+%7C+Security;Automation+%7C+Monitoring+%7C+IT-OT;Always+Learning+New+Tech&center=true&width=700&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+%26+IT+Engineer;Linux+%7C+Virtualization+%7C+Cybersecurity;Automation+%7C+Monitoring+%7C+IT-OT;Fixing+What+Others+Call+Dead+PCs;Always+Learning+New+Tech&center=true&width=820&height=45" />
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -14,55 +14,63 @@
 
 ## 👨‍💻 Network & IT Engineer | Linux | Virtualization | Security
 
-I’m a **Network & IT Engineer** with hands-on experience in **Linux systems, virtualization, networking, and cybersecurity**.  
-I work on **real-world infrastructure**, from office & enterprise networks to **industrial IT–OT environments**.
+I’m a **Network & IT Engineer** who loves working close to the metal — **Linux servers, networking, firewalls, virtualization, and monitoring**.  
+I build, fix, monitor, automate, and secure **real-world infrastructure**, from office networks to **industrial IT–OT environments**.
+
+💡 *If it has an IP address, I probably want to troubleshoot it.*
 
 ---
 
-## 🛠️ Skills & Technologies (Icons)
+## 🛠️ Skills & Technologies
 
-### 🐧 Linux & Virtualization
+### 🐧 Linux • Virtualization • Servers
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker" />
 </p>
 
-- Proxmox • Umbrel  
-- Virtual Machines & Servers  
+- Proxmox VE • Umbrel  
+- Virtual Machines & Server Deployment  
 - FTP & Backup Servers  
-- Xeon Workstations  
+- Xeon-based Workstations  
 
 ---
 
 ### 🌐 Networking
 <p>
   <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
 - MikroTik • pfSense  
 - VLANs • Trunking • Routing  
 - IP / TCP / DHCP (Static & Dynamic)  
-- VPN (Remote Access **without Public IP**)  
+- Remote Access VPN (**No Public IP needed**)  
 - Industrial IT–OT Networking  
 - Cisco Packet Tracer (CCNA / CCNT level)
 
 ---
 
-### 🔐 Security & Monitoring
+### 🔐 Security • Monitoring • Visibility
 <p>
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
-- Pi-hole (DNS Filtering)  
+- Pi-hole (DNS Filtering & Ad Blocking)  
 - ntopng (Traffic Analysis)  
-- Firewall & Network Monitoring  
+- Firewall Rules, Logs & Network Monitoring  
 
 ---
 
 ### 🏢 Infrastructure & Systems
-- CCTV Systems (Hikvision, Dahua)  
+<p>
+  <img src="https://img.shields.io/badge/Hikvision-0078D4?style=flat&logo=hikvision&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dahua-E60012?style=flat&logo=dahua&logoColor=white" />
+</p>
+
+- CCTV Systems (Hikvision & Dahua)  
 - Attendance Machines  
-- Server Deployment & Maintenance  
-- A–Z Network & IT Support  
+- Server Maintenance & Deployments  
+- A–Z IT & Network Support  
 
 ---
 
@@ -70,7 +78,7 @@ I work on **real-world infrastructure**, from office & enterprise networks to **
 - 🎓 CCNA (In Progress)  
 - 🔐 Cybersecurity Fundamentals  
 - 🐧 Linux Server Administration  
-- 📡 Networking & Monitoring  
+- 📡 Networking, Monitoring & Logging  
 - 🤖 Automation & Infrastructure Optimization  
 
 ---
@@ -78,39 +86,39 @@ I work on **real-world infrastructure**, from office & enterprise networks to **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏷️ Tech Badges
+## 🏷️ Tech Stack Badges
 
 <p>
   <img src="https://img.shields.io/badge/Linux-Expert-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Networking-Professional-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Virtualization-Proxmox-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-pfSense-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-yellow?style=for-the-badge&logo=grafana" />
+  <img src="https://img.shields.io/badge/Proxmox-Virtualization-orange?style=for-the-badge&logo=proxmox" />
+  <img src="https://img.shields.io/badge/pfSense-Firewall-1E90FF?style=for-the-badge&logo=pfsense" />
+  <img src="https://img.shields.io/badge/MikroTik-Networking-darkred?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana" />
 </p>
 
 ---
 
 ## 🛠️ Troubleshooting & Automation
-- Automation-first mindset  
-- **90% guaranteed repair** of PCs considered “dead”  
+- Automation-first mindset 🤖  
+- **90% success rate repairing PCs** others consider “dead”  
 - Strong diagnostics, monitoring & optimization skills  
 
 ---
 
 ## 📚 Philosophy
-> Build it • Break it • Fix it • Automate it
+> Build it • Break it • Fix it • Automate it  
 
-⭐ Always learning. Always improving.
+⭐ *Still learning. Still experimenting. Still improving.*
