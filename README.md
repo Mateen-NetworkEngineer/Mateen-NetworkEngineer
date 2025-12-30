@@ -1,50 +1,60 @@
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Network+%26+IT+Engineer;Linux+%7C+Virtualization+%7C+Security;Automation+%7C+Monitoring+%7C+IT-OT;Always+Learning+New+Tech&center=true&width=700&height=45" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat" />
+</p>
+
+---
+
 # 👋 Hi, I'm Mateen
 
 ## 👨‍💻 Network & IT Engineer | Linux | Virtualization | Security
 
-I’m a **Network & IT Engineer** with strong hands-on experience in **Linux systems, networking, virtualization, and infrastructure support**.  
-I enjoy building, fixing, monitoring, and automating real-world IT environments — from office networks to **industrial IT–OT environments**.
+I’m a **Network & IT Engineer** with hands-on experience in **Linux systems, virtualization, networking, and cybersecurity**.  
+I work on **real-world infrastructure**, from office & enterprise networks to **industrial IT–OT environments**.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies (Icons)
 
 ### 🐧 Linux & Virtualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker" />
 </p>
 
 - Proxmox • Umbrel  
 - Virtual Machines & Servers  
-- Backup & FTP Servers  
+- FTP & Backup Servers  
 - Xeon Workstations  
 
 ---
 
 ### 🌐 Networking
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=cisco" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
 - MikroTik • pfSense  
 - VLANs • Trunking • Routing  
 - IP / TCP / DHCP (Static & Dynamic)  
-- VPN (Remote Access without Public IP)  
+- VPN (Remote Access **without Public IP**)  
 - Industrial IT–OT Networking  
-- Cisco (CCNA / CCNT, Packet Tracer)
+- Cisco Packet Tracer (CCNA / CCNT level)
 
 ---
 
 ### 🔐 Security & Monitoring
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
-- Pi-hole  
-- ntopng  
-- Firewalls & Traffic Monitoring  
+- Pi-hole (DNS Filtering)  
+- ntopng (Traffic Analysis)  
+- Firewall & Network Monitoring  
 
 ---
 
@@ -52,7 +62,16 @@ I enjoy building, fixing, monitoring, and automating real-world IT environments 
 - CCTV Systems (Hikvision, Dahua)  
 - Attendance Machines  
 - Server Deployment & Maintenance  
-- A–Z IT & Network Support  
+- A–Z Network & IT Support  
+
+---
+
+## 🏆 Certifications & Learning Path
+- 🎓 CCNA (In Progress)  
+- 🔐 Cybersecurity Fundamentals  
+- 🐧 Linux Server Administration  
+- 📡 Networking & Monitoring  
+- 🤖 Automation & Infrastructure Optimization  
 
 ---
 
@@ -72,9 +91,9 @@ I enjoy building, fixing, monitoring, and automating real-world IT environments 
 
 ---
 
-## 🏆 Badges & Highlights
+## 🏷️ Tech Badges
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Linux-Expert-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Networking-Professional-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Virtualization-Proxmox-orange?style=for-the-badge" />
@@ -85,15 +104,13 @@ I enjoy building, fixing, monitoring, and automating real-world IT environments 
 ---
 
 ## 🛠️ Troubleshooting & Automation
-- Automation-focused mindset  
+- Automation-first mindset  
 - **90% guaranteed repair** of PCs considered “dead”  
-- Strong debugging & monitoring skills  
+- Strong diagnostics, monitoring & optimization skills  
 
 ---
 
-## 📚 Always Learning
-Cybersecurity • Automation • Advanced Networking • Monitoring
+## 📚 Philosophy
+> Build it • Break it • Fix it • Automate it
 
----
-
-⭐ *Build • Break • Fix • Automate*
+⭐ Always learning. Always improving.
