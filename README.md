@@ -44,7 +44,7 @@ I build, fix, monitor, automate, and secure **real-world infrastructure**, from 
 - MikroTik • pfSense  
 - VLANs • Trunking • Routing  
 - IP / TCP / DHCP (Static & Dynamic)  
-- Remote Access VPN (**No Public IP needed**)  
+- Remote Access VPN (**No Public IP needed Sometimes**)  
 - Industrial IT–OT Networking  
 - Cisco Packet Tracer (CCNA / CCNT level)
 
