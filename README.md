@@ -38,7 +38,7 @@ I build, fix, monitor, automate, and secure **real-world infrastructure**, from 
 
 ### 🌐 Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="" />
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
@@ -82,23 +82,7 @@ I build, fix, monitor, automate, and secure **real-world infrastructure**, from 
 - 📡 Networking, Monitoring & Logging  
 - 🤖 Automation & Infrastructure Optimization  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateen-NetworkEngineer&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateen-NetworkEngineer&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateen-NetworkEngineer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🏷️ Tech Stack Badges
 
