@@ -38,8 +38,8 @@ I build, fix, monitor, automate, and secure **real-world infrastructure**, from 
 
 ### 🌐 Networking
 <p>
-  <img src="" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
+  <img src="assets/cisco.svg" alt="Cisco Icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare Icon" />
 </p>
 
 - MikroTik • pfSense  
